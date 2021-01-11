@@ -1,3 +1,6 @@
+ -- in order to execute the individual files do "node index.js" or "node asyncActions.js"
+
+ 
 Cake shop scenario:-
 
     A store that holds the state of your application
